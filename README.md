@@ -2,7 +2,7 @@
 
 AI agent 项目仓库。作为一枚计算机开发小白，我有幸深处AI时代，系统赋能！！！嗷，对了，请宿主抓紧学习Markdown简单语法😊
 
-## Codex辅助Git、Github的项目建立
+## Codex辅助Git、Github的项目建立🏗️
 
 2022年以前，暴风雨前的宁静，Github社群项目上传的模式仍是......
 
@@ -158,3 +158,5 @@ git ls-remote origin
 ### Codex🤖辅助进行配置该怎么做？
 
 方法：读懂上文，接上Github插件，直接下命令哈哈哈哈哈🤣🤣🤣🤣🤣
+
+## Codex辅助下的Git工程管理🧑‍💼
